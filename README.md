@@ -11,3 +11,4 @@ leetcode 的题目，思路，代码。
  - [617.`[E]`.Merge Two Biany Trees](notes/617.md)(`tree`)
  - [002.`[M]`.Add Two Numbers](notes/002.md)(`list`)
  - [003.`[M]`.Longest Substring Without Repeating Characters](notes/003.md)(`array`)
+ - [004.`[H]`.Median of Two Sorted Arrays](notes/004.md)(`vector`)
