@@ -12,3 +12,4 @@ leetcode 的题目，思路，代码。
  - [002.`[M]`.Add Two Numbers](notes/002.md)(`list`)
  - [003.`[M]`.Longest Substring Without Repeating Characters](notes/003.md)(`array`)
  - [004.`[H]`.Median of Two Sorted Arrays](notes/004.md)(`vector`)
+ - [005.`[M]`.Longest Palindromic Substring](notes/005.md)(`vector,string`)
