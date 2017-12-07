@@ -16,3 +16,4 @@ leetcode 的题目，思路，代码。
  - [007.`[E]`.Reverse Integer](notes/007.md)(`int,long`)
  - [011.`[M]`.Container With Most Water](notes/011.md)(`vector`)
  - [013.`[E]`.Roman to Integer](notes/013.md)(`map`)
+ - [014.`[E]`.Longest Common Prefix](notes/014.md)(`vector,string`)
