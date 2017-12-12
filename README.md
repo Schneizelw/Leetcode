@@ -22,3 +22,4 @@ leetcode 的题目，思路，代码。
  - [019.`[M]`.Remove Nth Node From End of List](notes/019.md)(`list`)
  - [020.`[E]`.Valid Parentheses](notes/020.md)(`vector`)
  - [021.`[E]`.Merge Two Sorted Lists](notes/021.md)(`list`)
+ - [010.`[H]`.Regular Expression Matching](notes/010.md)(`dp`)
