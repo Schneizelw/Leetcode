@@ -24,3 +24,4 @@ leetcode 的题目，思路，代码。
  - [021.`[E]`.Merge Two Sorted Lists](notes/021.md)(`list`)
  - [010.`[H]`.Regular Expression Matching](notes/010.md)(`dp`)
  - [022.`[M]`.Generate Parentheses](notes/022.md)(`recursion`)
+ - [026.`[E]`.Remove Duplicates from Sorted Array](notes/026.md)(`vector`)
