@@ -28,4 +28,5 @@ leetcode 的题目，思路，代码。
  - [033.`[M]`.Search in Rotated Sorted Array](notes/033.md)(`bisearch`)
  - [034.`[M]`.Search for a Range](notes/034.md)(`bisearch`)
  - [023.`[H]`.Merge k Sorted Lists](notes/023.md)(`list,quick sort`)
- - [041.`[H]`.First Missing Positive](notes/041.md)(`array`)
+ - [041.`[H]`.First Missing Positive](notes/041.md)(`vector`)
+ - [042.`[H]`.Trapping Rain Water](notes/042.md)(`vector`)
