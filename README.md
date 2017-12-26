@@ -27,3 +27,4 @@ leetcode 的题目，思路，代码。
  - [026.`[E]`.Remove Duplicates from Sorted Array](notes/026.md)(`vector`)
  - [033.`[M]`.Search in Rotated Sorted Array](notes/033.md)(`bisearch`)
  - [034.`[M]`.Search for a Range](notes/034.md)(`bisearch`)
+ - [023.`[H]`.Merge k Sorted Lists](notes/023.md)(`list,quick sort`)
