@@ -32,3 +32,4 @@ leetcode 的题目，思路，代码。
  - [042.`[H]`.Trapping Rain Water](notes/042.md)(`vector`)
  - [036.`[M]`.Valid Sudoku](notes/036.md)(`two-dimensional array`)
  - [048.`[M]`.Rotate Image](notes/048.md)(`two-dimensional array,matrix`)
+ - [049.`[M]`.Group Anagrams](notes/049.md)(`hash，unordered_map`)
