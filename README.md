@@ -34,3 +34,4 @@ leetcode 的题目，思路，代码。
  - [048.`[M]`.Rotate Image](notes/048.md)(`two-dimensional array,matrix`)
  - [049.`[M]`.Group Anagrams](notes/049.md)(`hash，unordered_map`)
  - [050.`[M]`.Pow(x,n)](notes/050.md)(`math`)
+ - [053.`[M]`.Maximum Subarray](notes/053.md)(`dp，array`)
