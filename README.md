@@ -38,3 +38,4 @@ leetcode 的题目，思路，代码。
  - [054.`[M]`.Spiral Matrix](notes/054.md)(`array`)
  - [055.`[M]`.Jump Game](notes/055.md)(`greedy，array`)
  - [056.`[M]`.Merge Intervals](notes/056.md)(`sort，array`)
+ - [062.`[M]`.Unique Paths](notes/062.md)(`dp`)
