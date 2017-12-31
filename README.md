@@ -36,3 +36,4 @@ leetcode 的题目，思路，代码。
  - [050.`[M]`.Pow(x,n)](notes/050.md)(`math`)
  - [053.`[E]`.Maximum Subarray](notes/053.md)(`dp，array`)
  - [054.`[M]`.Spiral Matrix](notes/054.md)(`array`)
+ - [055.`[M]`.Jump Game](notes/055.md)(`greedy，array`)
