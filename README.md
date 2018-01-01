@@ -40,3 +40,4 @@ leetcode 的题目，思路，代码。
  - [056.`[M]`.Merge Intervals](notes/056.md)(`sort，array`)
  - [062.`[M]`.Unique Paths](notes/062.md)(`dp`)
  - [070.`[E]`.Climbing Stairs](notes/070.md)(`dp`)
+ - [066.`[E]`.Plus One](notes/066.md)(`math，array`)
