@@ -42,3 +42,4 @@ leetcode 的题目，思路，代码。
  - [070.`[E]`.Climbing Stairs](notes/070.md)(`dp`)
  - [066.`[E]`.Plus One](notes/066.md)(`math,array`)
  - [075.`[M]`.Sort Colors](notes/075.md)(`sort,array,two pointer`)
+ - [076.`[H]`.Minimum Window Substring](notes/076.md)(`array,two pointer,hash`)
