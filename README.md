@@ -44,3 +44,4 @@ leetcode 的题目，思路，代码。
  - [075.`[M]`.Sort Colors](notes/075.md)(`sort,array,two pointer`)
  - [076.`[H]`.Minimum Window Substring](notes/076.md)(`array,two pointer,hash`)
  - [078.`[M]`.Subsets](notes/078.md)(`array`)
+ - [079.`[M]`.Word Search](notes/079.md)(`Backtracking`)
