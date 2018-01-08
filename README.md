@@ -45,3 +45,4 @@ leetcode 的题目，思路，代码。
  - [076.`[H]`.Minimum Window Substring](notes/076.md)(`array,two pointer,hash`)
  - [078.`[M]`.Subsets](notes/078.md)(`array`)
  - [079.`[M]`.Word Search](notes/079.md)(`Backtracking`)
+ - [046.`[M]`.Permutations](notes/046.md)(`dp`)
