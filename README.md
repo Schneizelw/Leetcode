@@ -49,3 +49,4 @@ leetcode 的题目，思路，代码。
  - [094.`[M]`.Binary Tree Inorder Traversal](notes/094.md)(`tree`)
  - [098.`[M]`.Validate Binary Search Tree](notes/098.md)(`tree,DFS`)
  - [091.`[M]`.Decode Ways](notes/091.md)(`dp`)
+ - [101.`[E]`.Symmetric Tree](notes/101.md)(`tree,DFS`)
