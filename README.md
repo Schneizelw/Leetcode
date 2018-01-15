@@ -52,4 +52,4 @@ leetcode 的题目，思路，代码。
  - [101.`[E]`.Symmetric Tree](notes/101.md)(`tree,DFS`)
  - [102.`[M]`.Binary Tree Level Order Traversal](notes/102.md)(`tree,BFS`)
  - [103.`[M]`.Binary Tree Zigzag Level Order Traversal](notes/103.md)(`tree,BFS`)
- - [104.`[E]`.Maximum Depth of Binary Tree](notes/104.md)(`tree,BFS`)
+ - [104.`[E]`.Maximum Depth of Binary Tree](notes/104.md)(`tree,DFS`)
