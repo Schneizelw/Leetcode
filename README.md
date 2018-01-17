@@ -54,3 +54,4 @@ leetcode 的题目，思路，代码。
  - [103.`[M]`.Binary Tree Zigzag Level Order Traversal](notes/103.md)(`tree,BFS`)
  - [104.`[E]`.Maximum Depth of Binary Tree](notes/104.md)(`tree,DFS`)
  - [105.`[M]`.Construct Binary Tree from Preorder and Inorder Traversal](notes/105.md)(`array,tree,DFS`)
+ - [108.`[E]`.Convert Sorted Array to Binary Search Tree](notes/108.md)(`array,tree,BFS`)
