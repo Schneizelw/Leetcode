@@ -55,3 +55,4 @@ leetcode 的题目，思路，代码。
  - [104.`[E]`.Maximum Depth of Binary Tree](notes/104.md)(`tree,DFS`)
  - [105.`[M]`.Construct Binary Tree from Preorder and Inorder Traversal](notes/105.md)(`array,tree,DFS`)
  - [108.`[E]`.Convert Sorted Array to Binary Search Tree](notes/108.md)(`array,tree,BFS`)
+ - [116.`[M]`.Populating Next Right Pointers in Each Node](notes/116.md)(`tree,BFS`)
