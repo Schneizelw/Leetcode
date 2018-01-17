@@ -56,4 +56,5 @@ leetcode 的题目，思路，代码。
  - [105.`[M]`.Construct Binary Tree from Preorder and Inorder Traversal](notes/105.md)(`array,tree,DFS`)
  - [108.`[E]`.Convert Sorted Array to Binary Search Tree](notes/108.md)(`array,tree,BFS`)
  - [116.`[M]`.Populating Next Right Pointers in Each Node](notes/116.md)(`tree,BFS`)
- - [118.`[E]`.Pascal's Triangle](notes/118.md)(``)
+ - [118.`[E]`.Pascal's Triangle](notes/118.md)(`array`)
+ - [118.`[E]`.Best Time to Buy and Sell Stock](notes/121.md)(`array`)
