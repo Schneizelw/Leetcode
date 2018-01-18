@@ -59,3 +59,4 @@ leetcode 的题目，思路，代码。
  - [118.`[E]`.Pascal's Triangle](notes/118.md)(`array`)
  - [121.`[E]`.Best Time to Buy and Sell Stock](notes/121.md)(`array`)
  - [122.`[E]`.Best Time to Buy and Sell Stock II](notes/122.md)(`array`)
+ - [088.`[E]`.Merge Sorted Array](notes/088.md)(`array,two pointers`)
