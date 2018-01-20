@@ -61,3 +61,4 @@ leetcode 的题目，思路，代码。
  - [122.`[E]`.Best Time to Buy and Sell Stock II](notes/122.md)(`array`)
  - [088.`[E]`.Merge Sorted Array](notes/088.md)(`array,two pointers`)
  - [128.`[H]`.Longest Consecutive Sequence](notes/128.md)(`array`)
+ - [131.`[M]`.Palindrome Partitioning](notes/131.md)(`Backtracking`)
