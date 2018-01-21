@@ -62,3 +62,4 @@ leetcode 的题目，思路，代码。
  - [088.`[E]`.Merge Sorted Array](notes/088.md)(`array,two pointers`)
  - [128.`[H]`.Longest Consecutive Sequence](notes/128.md)(`array`)
  - [131.`[M]`.Palindrome Partitioning](notes/131.md)(`Backtracking`)
+ - [134.`[M]`.Gas Station](notes/134.md)(`Greedy`)
