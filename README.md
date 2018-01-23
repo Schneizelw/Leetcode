@@ -63,3 +63,4 @@ leetcode 的题目，思路，代码。
  - [128.`[H]`.Longest Consecutive Sequence](notes/128.md)(`array`)
  - [131.`[M]`.Palindrome Partitioning](notes/131.md)(`Backtracking`)
  - [134.`[M]`.Gas Station](notes/134.md)(`Greedy`)
+ - [139.`[M]`.Word Break](notes/139.md)(`dp`)
