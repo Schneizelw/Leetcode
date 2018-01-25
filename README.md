@@ -66,3 +66,4 @@ leetcode 的题目，思路，代码。
  - [139.`[M]`.Word Break](notes/139.md)(`dp`)
  - [125.`[E]`.Valid Palindrome](notes/125.md)(`string,two pointers`)
  - [127.`[M]`.Word Ladder](notes/127.md)(`BFS`)
+ - [136.`[E]`.Single Number](notes/136.md)(`Hash Table,Bit Manipulation`)
