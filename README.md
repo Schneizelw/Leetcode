@@ -67,3 +67,4 @@ leetcode 的题目，思路，代码。
  - [125.`[E]`.Valid Palindrome](notes/125.md)(`string,two pointers`)
  - [127.`[M]`.Word Ladder](notes/127.md)(`BFS`)
  - [136.`[E]`.Single Number](notes/136.md)(`Hash Table,Bit Manipulation`)
+ - [073.`[M]`.Set Matrix Zeroes](notes/073.md)(`array`)
