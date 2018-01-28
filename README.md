@@ -69,3 +69,4 @@ leetcode 的题目，思路，代码。
  - [136.`[E]`.Single Number](notes/136.md)(`Hash Table,Bit Manipulation`)
  - [073.`[M]`.Set Matrix Zeroes](notes/073.md)(`array`)
  - [130.`[M]`.Surrounded Regions](notes/130.md)(`dfs,bfs,union find`)
+ - [206.`[E]`.Reverse Linked List](notes/206.md)(`Linked List`)
