@@ -71,3 +71,4 @@ leetcode 的题目，思路，代码。
  - [130.`[M]`.Surrounded Regions](notes/130.md)(`dfs,bfs,union find`)
  - [206.`[E]`.Reverse Linked List](notes/206.md)(`Linked List`)
  - [191.`[E]`.Number of 1 Bits](notes/191.md)(`Bit Manipulation`)
+ - [084.`[H]`.Largest Rectangle in Histogram](notes/084.md)(`array,stack`)
