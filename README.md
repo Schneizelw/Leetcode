@@ -73,3 +73,4 @@ leetcode 的题目，思路，代码。
  - [191.`[E]`.Number of 1 Bits](notes/191.md)(`Bit Manipulation`)
  - [084.`[H]`.Largest Rectangle in Histogram](notes/084.md)(`array,stack`)
  - [150.`[M]`.Evaluate Reverse Polish Notation](notes/150.md)(`stack`)
+ - [138.`[M]`.Copy List with Random Pointer](notes/138.md)(`Linked List,Hash Table`)
