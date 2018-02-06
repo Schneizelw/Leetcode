@@ -76,4 +76,4 @@ leetcode 的题目，思路，代码。
  - [138.`[M]`.Copy List with Random Pointer](notes/138.md)(`Linked List,Hash Table`)
  - [148.`[M]`.Sort List](notes/148.md)(`Linked List,Sort`)
  - [200.`[M]`.Number of Islands](notes/200.md)(`dfs,bfs`)
- - [207.`[M]`.Number of Islands](notes/207.md)(`dfs,bfs,graph,topological sort`)
+ - [207.`[M]`.Course Schedule](notes/207.md)(`dfs,bfs,graph,topological sort`)
