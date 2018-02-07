@@ -77,3 +77,4 @@ leetcode 的题目，思路，代码。
  - [148.`[M]`.Sort List](notes/148.md)(`Linked List,Sort`)
  - [200.`[M]`.Number of Islands](notes/200.md)(`dfs,bfs`)
  - [207.`[M]`.Course Schedule](notes/207.md)(`dfs,bfs,graph,topological sort`)
+ - [169.`[E]`.Majority Element](notes/169.md)(`array`)
