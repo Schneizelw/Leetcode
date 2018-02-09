@@ -79,3 +79,5 @@ leetcode 的题目，思路，代码。
  - [207.`[M]`.Course Schedule](notes/207.md)(`dfs,bfs,graph,topological sort`)
  - [169.`[E]`.Majority Element](notes/169.md)(`array`)
  - [067.`[E]`.Add Binary](notes/067.md)(`math,string`)
+ - [169.`[E]`.Majority Element](notes/169.md)(`array`)
+ - [215.`[M]`.Kth Largest Element in an Array](notes/215.md)(`divide and conquer,heap`)
