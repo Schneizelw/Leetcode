@@ -84,3 +84,4 @@ leetcode 的题目，思路，代码。
  - [217.`[E]`.Contains Duplicate](notes/217.md)(`array,hash table`)
  - [162.`[M]`.Find Peak Element](notes/162.md)(`array`)
  - [141.`[E]`.Linked List Cycle](notes/141.md)(`LinkList two pointers`)
+ - [344.`[E]`.Reverse String](notes/344.md)(`string`)
