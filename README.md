@@ -85,3 +85,4 @@ leetcode 的题目，思路，代码。
  - [141.`[E]`.Linked List Cycle](notes/141.md)(`LinkList two pointers`)
  - [344.`[E]`.Reverse String](notes/344.md)(`string`)
  - [227.`[M]`.Basic Calculator II](notes/227.md)(`string`)
+ - [230.`[M]`.Kth Smallest Element in a BST](notes/230.md)(`tree`)
