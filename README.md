@@ -93,3 +93,4 @@ leetcode 的题目，思路，代码。
  - [239.`[H]`. Sliding Window Maximum](notes/239.md)(`array,deque`)
  - [240.`[M]`. Search a 2D Matrix II](notes/240.md)(`array`)
  - [289.`[M]`. Game of Life](notes/289.md)(`array`)
+ - [279.`[M]`. Perfect Squares](notes/279.md)(`dp`)
