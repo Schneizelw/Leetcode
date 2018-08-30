@@ -96,3 +96,4 @@ leetcode 的题目，思路，代码。
  - [279.`[M]`. Perfect Squares](notes/279.md)(`dp`)
  - [300.`[M]`. Longest Increasing Subsequence](notes/300.md)(`dp`)
  - [142.`[M]`. Linked List Cycle II](notes/142.md)(`list,tow pointers`)
+ - [322.`[M]`. Coin Change](notes/322.md)(`dp`)
