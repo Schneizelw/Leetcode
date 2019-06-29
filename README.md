@@ -102,4 +102,4 @@ leetcode 的题目，思路，代码。
  - [057.`[H]`.Insert Interval](notes/057.md)(`sort,array`)
  - [059.`[H]`.Spiral Matrix II](notes/059.md)(`array`)
  - [153.`[M]`.Find Minimum in Rotated Sorted Array](notes/153.md)(`array`, `binary search`)
-  
+ - [154.`[H]`.Find Minimum in Rotated Sorted Array II](notes/154.md)(`array`, `binary search`)
