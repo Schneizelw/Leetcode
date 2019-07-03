@@ -105,3 +105,4 @@ leetcode 的题目，思路，代码。
  - [154.`[H]`.Find Minimum in Rotated Sorted Array II](notes/154.md)(`array`, `binary search`)
  - [209.`[M]`.Minimum Size Subarray Sum](notes/209.md)(`array`)
  - [228.`[M]`.Summary Ranges](notes/228.md)(`array`)
+ - [228.`[M]`.Multiply Strings](notes/043.md)(`array`,`string`)
