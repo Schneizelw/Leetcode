@@ -106,3 +106,4 @@ leetcode 的题目，思路，代码。
  - [209.`[M]`.Minimum Size Subarray Sum](notes/209.md)(`array`)
  - [228.`[M]`.Summary Ranges](notes/228.md)(`array`)
  - [228.`[M]`.Multiply Strings](notes/043.md)(`array`,`string`)
+ - [414.`[E]`.Third Maximum Number](notes/414.md)(`array`)
