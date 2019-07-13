@@ -45,7 +45,6 @@ leetcode 的题目，思路，代码。
  - [076.`[H]`.Minimum Window Substring](notes/076.md)(`array,two pointer,hash`)
  - [078.`[M]`.Subsets](notes/078.md)(`array`)
  - [079.`[M]`.Word Search](notes/079.md)(`Backtracking`)
- - [046.`[M]`.Permutations](notes/046.md)(`dp`)
  - [094.`[M]`.Binary Tree Inorder Traversal](notes/094.md)(`tree`)
  - [098.`[M]`.Validate Binary Search Tree](notes/098.md)(`tree,DFS`)
  - [091.`[M]`.Decode Ways](notes/091.md)(`dp`)
@@ -109,3 +108,7 @@ leetcode 的题目，思路，代码。
  - [414.`[E]`.Third Maximum Number](notes/414.md)(`array`)
  - [416.`[M]`.Partition Equal Subset Sum](notes/416.md)(`array`,`backtrack`)
  - [039.`[M]`.Combination Sum](notes/039.md)(`array`,`backtrack`)
+ - [040.`[M]`.Combination Sum II](notes/040.md)(`array`,`backtrack`)
+ - [046.`[M]`.Permutations](notes/046.md)(`backtrack`)
+ - [047.`[M]`.Permutations II](notes/047.md)(`backtrack`)
+
