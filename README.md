@@ -111,4 +111,5 @@ leetcode 的题目，思路，代码。
  - [040.`[M]`.Combination Sum II](notes/040.md)(`array`,`backtrack`)
  - [046.`[M]`.Permutations](notes/046.md)(`backtrack`)
  - [047.`[M]`.Permutations II](notes/047.md)(`backtrack`)
+ - [137.`[M]`.Single Number II](notes/137.md)(`bit manipulation`)
 
