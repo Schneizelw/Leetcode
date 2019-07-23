@@ -112,4 +112,5 @@ leetcode 的题目，思路，代码。
  - [046.`[M]`.Permutations](notes/046.md)(`backtrack`)
  - [047.`[M]`.Permutations II](notes/047.md)(`backtrack`)
  - [137.`[M]`.Single Number II](notes/137.md)(`bit manipulation`)
+ - [299.`[M]`.Bulls and Cows](notes/299.md)(`hash table`)
 
