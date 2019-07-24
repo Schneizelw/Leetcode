@@ -65,7 +65,6 @@ leetcode 的题目，思路，代码。
  - [139.`[M]`.Word Break](notes/139.md)(`dp`)
  - [125.`[E]`.Valid Palindrome](notes/125.md)(`string,two pointers`)
  - [127.`[M]`.Word Ladder](notes/127.md)(`BFS`)
- - [136.`[E]`.Single Number](notes/136.md)(`Hash Table,Bit Manipulation`)
  - [073.`[M]`.Set Matrix Zeroes](notes/073.md)(`array`)
  - [130.`[M]`.Surrounded Regions](notes/130.md)(`dfs,bfs,union find`)
  - [206.`[E]`.Reverse Linked List](notes/206.md)(`Linked List`)
@@ -111,6 +110,8 @@ leetcode 的题目，思路，代码。
  - [040.`[M]`.Combination Sum II](notes/040.md)(`array`,`backtrack`)
  - [046.`[M]`.Permutations](notes/046.md)(`backtrack`)
  - [047.`[M]`.Permutations II](notes/047.md)(`backtrack`)
+ - [136.`[E]`.Single Number](notes/136.md)(`bit manipulation`)
  - [137.`[M]`.Single Number II](notes/137.md)(`bit manipulation`)
+ - [260.`[M]`.Single Number III](notes/260.md)(`bit manipulation`)
  - [299.`[M]`.Bulls and Cows](notes/299.md)(`hash table`)
 
