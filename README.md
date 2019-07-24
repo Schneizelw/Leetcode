@@ -114,4 +114,5 @@ leetcode 的题目，思路，代码。
  - [137.`[M]`.Single Number II](notes/137.md)(`bit manipulation`)
  - [260.`[M]`.Single Number III](notes/260.md)(`bit manipulation`)
  - [299.`[M]`.Bulls and Cows](notes/299.md)(`hash table`)
+ - [187.`[M]`.Repeated DNA Sequences](notes/187.md)(`hash table`, `bit manipulation`)
 
