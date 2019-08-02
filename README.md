@@ -115,4 +115,6 @@ leetcode 的题目，思路，代码。
  - [260.`[M]`.Single Number III](notes/260.md)(`bit manipulation`)
  - [299.`[M]`.Bulls and Cows](notes/299.md)(`hash table`)
  - [187.`[M]`.Repeated DNA Sequences](notes/187.md)(`hash table`, `bit manipulation`)
+ - [083.`[E]`.Remove Duplicates from Sorted List](notes/083.md)(`linkedlist`)
  - [082.`[M]`.Remove Duplicates from Sorted List II](notes/082.md)(`linkedlist`)
+ - [160.`[E]`.Intersection of Two Linked Lists](notes/160.md)(`linkedlist`)
