@@ -118,3 +118,6 @@ leetcode 的题目，思路，代码。
  - [083.`[E]`.Remove Duplicates from Sorted List](notes/083.md)(`linkedlist`)
  - [082.`[M]`.Remove Duplicates from Sorted List II](notes/082.md)(`linkedlist`)
  - [160.`[E]`.Intersection of Two Linked Lists](notes/160.md)(`linkedlist`)
+ - [152.`[M]`.Maximum Product Subarray](notes/152.md)(`dp`)
+ - [304.`[M]`.Range Sum Query 2D - Immutable](notes/304.md)(`array`)
+ - [713.`[M]`.Subarray Product Less Than K](notes/713.md)(`array`,`two pointers`)
