@@ -62,7 +62,6 @@ leetcode 的题目，思路，代码。
  - [128.`[H]`.Longest Consecutive Sequence](notes/128.md)(`array`)
  - [131.`[M]`.Palindrome Partitioning](notes/131.md)(`Backtracking`)
  - [134.`[M]`.Gas Station](notes/134.md)(`Greedy`)
- - [139.`[M]`.Word Break](notes/139.md)(`dp`)
  - [125.`[E]`.Valid Palindrome](notes/125.md)(`string,two pointers`)
  - [127.`[M]`.Word Ladder](notes/127.md)(`BFS`)
  - [073.`[M]`.Set Matrix Zeroes](notes/073.md)(`array`)
@@ -121,3 +120,5 @@ leetcode 的题目，思路，代码。
  - [152.`[M]`.Maximum Product Subarray](notes/152.md)(`dp`)
  - [304.`[M]`.Range Sum Query 2D - Immutable](notes/304.md)(`array`)
  - [713.`[M]`.Subarray Product Less Than K](notes/713.md)(`array`,`two pointers`)
+ - [139.`[M]`.Word Break](notes/139.md)(`dp`)
+ - [140.`[H]`.Word Break II](notes/140.md)(`dp`, `backtrack`)
