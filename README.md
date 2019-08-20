@@ -122,3 +122,4 @@ leetcode 的题目，思路，代码。
  - [713.`[M]`.Subarray Product Less Than K](notes/713.md)(`array`,`two pointers`)
  - [139.`[M]`.Word Break](notes/139.md)(`dp`)
  - [140.`[H]`.Word Break II](notes/140.md)(`dp`, `backtrack`)
+ - [845.`[M]`.Longest Mountain in Array](notes/845.md)(`two pointers`)
