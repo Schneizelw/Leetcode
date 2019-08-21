@@ -124,3 +124,4 @@ leetcode 的题目，思路，代码。
  - [140.`[H]`.Word Break II](notes/140.md)(`dp`, `backtrack`)
  - [845.`[M]`.Longest Mountain in Array](notes/845.md)(`two pointers`)
  - [064.`[M]`.Minimum Path Sum](notes/064.md)(`dp`)
+ - [072.`[H]`.Edit Distance](notes/072.md)(`dp`)
