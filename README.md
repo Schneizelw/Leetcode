@@ -129,3 +129,5 @@ leetcode 的题目，思路，代码。
  - [1161.`[M]`.Maximum Level Sum of a Binary Tree](notes/1161.md)(`tree`)
  - [1162.`[M]`.As Far from Land as Possible](notes/1162.md)(`bfs`)
  - [1163.`[H]`.Last Substring in Lexicographical Order](notes/1163.md)(`substring`)
+ - [1169.`[E]`.Invalid Transactions](notes/1169.md)(`array`,`string`)
+ - [1170.`[E]`.Compare Strings by Frequency of the Smallest Character](notes/1170.md)(`array`,`string`)
