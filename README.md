@@ -125,6 +125,7 @@ leetcode 的题目，思路，代码。
  - [845.`[M]`.Longest Mountain in Array](notes/845.md)(`two pointers`)
  - [064.`[M]`.Minimum Path Sum](notes/064.md)(`dp`)
  - [072.`[H]`.Edit Distance](notes/072.md)(`dp`)
+ - [279.`[M]`.Perfect Squares](notes/279.md)(`dp`, `bfs`, `backtrack`)
  - [1160.`[E]`.Find Words That Can Be Formed by Characters](notes/1160.md)(`hash table`)
  - [1161.`[M]`.Maximum Level Sum of a Binary Tree](notes/1161.md)(`tree`)
  - [1162.`[M]`.As Far from Land as Possible](notes/1162.md)(`bfs`)
