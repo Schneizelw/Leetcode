@@ -140,3 +140,4 @@ leetcode 的题目，思路，代码。
  - [1170.`[E]`.Compare Strings by Frequency of the Smallest Character](notes/1170.md)(`array`,`string`)
  - [1171.`[M]`.Remove Zero Sum Consecutive Nodes from Linked List](notes/1171.md)(`linkedlist`)
  - [1177.`[M]`.Can Make Palindrome from Substring](notes/1177.md)(`string`, `array`)
+ - [1175.`[E]`.Prime Arrangements](notes/1175.md)(`math`)
