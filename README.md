@@ -141,3 +141,4 @@ leetcode 的题目，思路，代码。
  - [1171.`[M]`.Remove Zero Sum Consecutive Nodes from Linked List](notes/1171.md)(`linkedlist`)
  - [1177.`[M]`.Can Make Palindrome from Substring](notes/1177.md)(`string`, `array`)
  - [1175.`[E]`.Prime Arrangements](notes/1175.md)(`math`)
+ - [1186.`[M]`.Maximum Subarray Sum with One Deletion](notes/1175.md)(`dp`)
