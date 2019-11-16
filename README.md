@@ -6,11 +6,13 @@ leetcode 的题目，思路，代码。
 
 
 ### DP
- - [dp summary: (notes/dp-summary.md)]
+
+ - [dp summary](notes/dp-summary.md)
  - [070.`[E]`.Climbing Stairs](notes/070.md)(`dp`)(`golang`, `C++`)
  - [053.`[E]`.Maximum Subarray](notes/053.md)(`dp`, `array`)(`golang`, `C++`)
  - [121.`[E]`.Best Time to Buy and Sell Stock](notes/121.md)(`dp`, `array`)(`golang`, `C++`)
  - [764.`[E]`.Min Cost Climbing Stairs](notes/764.md)(`dp`, `array`)(`golang`)
+ - [198.`[E]`.House Robber](notes/198.md)(`dp`, `array`)(`golang`)
 
  - [010.`[H]`.Regular Expression Matching](notes/010.md)(`dp`)
  - [062.`[M]`.Unique Paths](notes/062.md)(`dp`)
@@ -30,6 +32,7 @@ leetcode 的题目，思路，代码。
  - [309.`[M]`.Best Time to Buy and Sell Stock with Cooldown](notes/309.md)(`dp`)
  - [1186.`[M]`.Maximum Subarray Sum with One Deletion](notes/1175.md)(`dp`)
 
+### others
 
  - [001.`[E]`.Two Sum](notes/001.md)(`array`,`map`)
  - [461.`[E]`.Hamming Distance](notes/461.md)(`bitset`)
@@ -116,6 +119,7 @@ leetcode 的题目，思路，代码。
  - [179.`[M]`.Largest Number](notes/179.md)(`sort`)
  - [057.`[H]`.Insert Interval](notes/057.md)(`sort,array`)
  - [059.`[H]`.Spiral Matrix II](notes/059.md)(`array`)
+ - [392.`[E]`.Is Subsequence](notes/392.md)(`string`, `greedy`)
  - [153.`[M]`.Find Minimum in Rotated Sorted Array](notes/153.md)(`array`, `binary search`)
  - [154.`[H]`.Find Minimum in Rotated Sorted Array II](notes/154.md)(`array`, `binary search`)
  - [209.`[M]`.Minimum Size Subarray Sum](notes/209.md)(`array`)
