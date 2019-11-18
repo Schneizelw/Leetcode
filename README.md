@@ -8,15 +8,14 @@ leetcode 的题目，思路，代码。
 ### DP
 
  - [dp summary](notes/dp-summary.md)
- - [070.`[E]`.Climbing Stairs](notes/070.md)(`dp`)(`golang`, `C++`)
- - [053.`[E]`.Maximum Subarray](notes/053.md)(`dp`, `array`)(`golang`, `C++`)
- - [121.`[E]`.Best Time to Buy and Sell Stock](notes/121.md)(`dp`, `array`)(`golang`, `C++`)
- - [764.`[E]`.Min Cost Climbing Stairs](notes/764.md)(`dp`, `array`)(`golang`)
- - [198.`[E]`.House Robber](notes/198.md)(`dp`, `array`)(`golang`)
+ - [070.`[E]`.Climbing Stairs](notes/070.md)(`dp`)
+ - [053.`[E]`.Maximum Subarray](notes/053.md)(`dp`, `array`)
+ - [121.`[E]`.Best Time to Buy and Sell Stock](notes/121.md)(`dp`, `array`)
+ - [764.`[E]`.Min Cost Climbing Stairs](notes/764.md)(`dp`, `array`)
+ - [198.`[E]`.House Robber](notes/198.md)(`dp`, `array`)
  - [091.`[M]`.Decode Ways](notes/091.md)(`dp`)
- - [523.`[M]`.Continuous Subarray Sum](notes/523.md)(`dp`)(`golang`)
- - [1191.`[M]`.K-Concatenation Maximum Sum](notes/1191.md)(`dp`, `array`)(`golang`)
-
+ - [523.`[M]`.Continuous Subarray Sum](notes/523.md)(`dp`)
+ - [1191.`[M]`.K-Concatenation Maximum Sum](notes/1191.md)(`dp`, `array`)
  - [010.`[H]`.Regular Expression Matching](notes/010.md)(`dp`)
  - [062.`[M]`.Unique Paths](notes/062.md)(`dp`)
  - [279.`[M]`.Perfect Squares](notes/279.md)(`dp`)
