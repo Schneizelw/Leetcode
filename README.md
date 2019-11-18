@@ -13,10 +13,12 @@ leetcode 的题目，思路，代码。
  - [121.`[E]`.Best Time to Buy and Sell Stock](notes/121.md)(`dp`, `array`)(`golang`, `C++`)
  - [764.`[E]`.Min Cost Climbing Stairs](notes/764.md)(`dp`, `array`)(`golang`)
  - [198.`[E]`.House Robber](notes/198.md)(`dp`, `array`)(`golang`)
+ - [091.`[M]`.Decode Ways](notes/091.md)(`dp`)
+ - [523.`[M]`.Continuous Subarray Sum](notes/523.md)(`dp`)(`golang`)
+ - [1191.`[M]`.K-Concatenation Maximum Sum](notes/1191.md)(`dp`, `array`)(`golang`)
 
  - [010.`[H]`.Regular Expression Matching](notes/010.md)(`dp`)
  - [062.`[M]`.Unique Paths](notes/062.md)(`dp`)
- - [091.`[M]`.Decode Ways](notes/091.md)(`dp`)
  - [279.`[M]`.Perfect Squares](notes/279.md)(`dp`)
  - [300.`[M]`.Longest Increasing Subsequence](notes/300.md)(`dp`)
  - [139.`[M]`.Word Break](notes/139.md)(`dp`)
