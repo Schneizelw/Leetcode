@@ -148,6 +148,7 @@ leetcode 的题目，思路，代码。
  - [954.`[M]`.Array of Doubled Pairs](notes/954.md)(`hash table`)
  - [494.`[M]`.Target Sum](notes/494.md)(`dfs`)
  - [143.`[M]`.Reorder List](notes/143.md)(`linkedlist`)
+ - [464.`[M]`.Can I Win](notes/464.md)(`dfs`)
  - [1160.`[E]`.Find Words That Can Be Formed by Characters](notes/1160.md)(`hash table`)
  - [1161.`[M]`.Maximum Level Sum of a Binary Tree](notes/1161.md)(`tree`)
  - [1162.`[M]`.As Far from Land as Possible](notes/1162.md)(`bfs`)
