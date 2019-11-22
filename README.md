@@ -16,6 +16,11 @@ leetcode 的题目，思路，代码。
  - [0091.`[M]`.Decode Ways](notes/091.md)(`dp`)
  - [0523.`[M]`.Continuous Subarray Sum](notes/523.md)(`dp`)
  - [1191.`[M]`.K-Concatenation Maximum Sum](notes/1191.md)(`dp`, `array`)
+ - [0837.`[M]`.New 21 Game](notes/0837.md)(`dp`, `math`)
+ - [0467.`[M]`.Unique Substrings in Wraparound String](notes/0467.md)(`dp`, `string`)
+ - [0674.`[M]`.Longest Continuous Increasing Subsequence](notes/0674.md)(`dp`)
+ - [0673.`[M]`.Number of Longest Increasing Subsequence](notes/0673.md)(`dp`)
+
  - [0010.`[H]`.Regular Expression Matching](notes/010.md)(`dp`)
  - [0062.`[M]`.Unique Paths](notes/062.md)(`dp`)
  - [0279.`[M]`.Perfect Squares](notes/279.md)(`dp`)
