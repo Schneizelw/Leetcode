@@ -166,4 +166,8 @@ leetcode 的题目，思路，代码。
 
  - [100.`[E]`.Same Tree](notes/100.md)(`tree`)
  - [111.`[E]`.Minimum Depth of Binary Tree](notes/111.md)(`tree`)
+ - [110.`[E]`.Balanced Binary Tree](notes/110.md)(`tree`)
+ - [112.`[E]`.Path Sum](notes/112.md)(`tree`)
+ - [112.`[M]`.Path Sum II](notes/113.md)(`tree`)
+ - [114.`[M]`.Flatten Binary Tree to Linked List](notes/114.md)(`tree`)
 
