@@ -7,7 +7,6 @@ leetcode 的题目，思路，代码。
 
 ### DP
 
- - [dp summary](notes/dp-summary.md)
  - [0070.`[E]`.Climbing Stairs](notes/070.md)(`dp`)
  - [0053.`[E]`.Maximum Subarray](notes/053.md)(`dp`, `array`)
  - [0121.`[E]`.Best Time to Buy and Sell Stock](notes/121.md)(`dp`, `array`)
@@ -163,3 +162,8 @@ leetcode 的题目，思路，代码。
  - [1171.`[M]`.Remove Zero Sum Consecutive Nodes from Linked List](notes/1171.md)(`linkedlist`)
  - [1177.`[M]`.Can Make Palindrome from Substring](notes/1177.md)(`string`, `array`)
  - [1175.`[E]`.Prime Arrangements](notes/1175.md)(`math`)
+
+### Tree
+
+ - [100.`[E]`.Same Tree](notes/100.md)(`tree`)
+
