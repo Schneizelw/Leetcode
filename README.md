@@ -35,6 +35,7 @@ leetcode 的题目，思路，代码。
  - [0664.`[H]`.Strange Printer](notes/664.md)(`dp`)
  - [0309.`[M]`.Best Time to Buy and Sell Stock with Cooldown](notes/309.md)(`dp`)
  - [1186.`[M]`.Maximum Subarray Sum with One Deletion](notes/1175.md)(`dp`)
+ - [0085.`[H]`.Maximal Rectangle](notes/0085.md)(`dp`)
 
 ### others
 
@@ -161,6 +162,7 @@ leetcode 的题目，思路，代码。
  - [1171.`[M]`.Remove Zero Sum Consecutive Nodes from Linked List](notes/1171.md)(`linkedlist`)
  - [1177.`[M]`.Can Make Palindrome from Substring](notes/1177.md)(`string`, `array`)
  - [1175.`[E]`.Prime Arrangements](notes/1175.md)(`math`)
+ - [0009.`[E]`.Palindrome Number](notes/0009.md)(`math`)
 
 ### Tree
 
