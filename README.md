@@ -165,6 +165,8 @@ leetcode 的题目，思路，代码。
  - [0009.`[E]`.Palindrome Number](notes/0009.md)(`math`)
  - [0146.`[M]`.LRU Cache](notes/0146.md)(`Design`)
  - [0328.`[M]`.Odd Even Linked List](notes/0328.md)(`list`)
+ - [0567.`[M]`.Permutation in String](notes/0567.md)(`two pointers`)
+ - [0151.`[M]`.Reverse Words in a String](notes/0151.md)(`string`)
 
 ### Tree
 
