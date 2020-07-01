@@ -164,6 +164,7 @@ leetcode 的题目，思路，代码。
  - [1175.`[E]`.Prime Arrangements](notes/1175.md)(`math`)
  - [0009.`[E]`.Palindrome Number](notes/0009.md)(`math`)
  - [0146.`[M]`.LRU Cache](notes/0146.md)(`Design`)
+ - [0328.`[M]`.Odd Even Linked List](notes/0328.md)(`list`)
 
 ### Tree
 
