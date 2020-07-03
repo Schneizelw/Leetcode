@@ -36,6 +36,7 @@ leetcode 的题目，思路，代码。
  - [0309.`[M]`.Best Time to Buy and Sell Stock with Cooldown](notes/309.md)(`dp`)
  - [1186.`[M]`.Maximum Subarray Sum with One Deletion](notes/1175.md)(`dp`)
  - [0085.`[H]`.Maximal Rectangle](notes/0085.md)(`dp`)
+ - [0123.`[H]`.Best Time to Buy and Sell Stock III](notes/0123.md)(`dp`)
 
 ### others
 
@@ -95,7 +96,6 @@ leetcode 的题目，思路，代码。
  - [127.`[M]`.Word Ladder](notes/127.md)(`BFS`)
  - [073.`[M]`.Set Matrix Zeroes](notes/073.md)(`array`)
  - [130.`[M]`.Surrounded Regions](notes/130.md)(`dfs,bfs,union find`)
- - [206.`[E]`.Reverse Linked List](notes/206.md)(`Linked List`)
  - [191.`[E]`.Number of 1 Bits](notes/191.md)(`Bit Manipulation`)
  - [084.`[H]`.Largest Rectangle in Histogram](notes/084.md)(`array,stack`)
  - [150.`[M]`.Evaluate Reverse Polish Notation](notes/150.md)(`stack`)
@@ -176,4 +176,9 @@ leetcode 的题目，思路，代码。
  - [112.`[E]`.Path Sum](notes/112.md)(`tree`)
  - [112.`[M]`.Path Sum II](notes/113.md)(`tree`)
  - [114.`[M]`.Flatten Binary Tree to Linked List](notes/114.md)(`tree`)
+
+
+### List
+ - [0206.`[E]`.Reverse Linked List](notes/0206.md)(`Linked List`)
+ - [0092.`[M]`.Reverse Linked List II](notes/0092.md)(`list`)
 
