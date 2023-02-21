@@ -185,3 +185,5 @@ leetcode 的题目，思路，代码。
 ### Array
  - [2535.`[E]`.Difference Between Element Sum and Digit Sum of an Array](notes/2535.md)(`array`,`math`)
 
+### Prefix Sum 
+ - [2536.`[M]`.Increment Submatrices by One](notes/2536.md)(`array`,`matrix`,`prefix sum`)
