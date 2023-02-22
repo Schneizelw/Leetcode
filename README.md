@@ -37,6 +37,7 @@ leetcode 的题目，思路，代码。
  - [1186.`[M]`.Maximum Subarray Sum with One Deletion](notes/1175.md)(`dp`)
  - [0085.`[H]`.Maximal Rectangle](notes/0085.md)(`dp`)
  - [0123.`[H]`.Best Time to Buy and Sell Stock III](notes/0123.md)(`dp`)
+ - [2439.`[M]`.Minimize Maximum of Array](notes/2439.md)(`dp`, `prefix sum`, `greedy`)
 
 ### others
 
