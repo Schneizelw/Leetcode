@@ -188,3 +188,7 @@ leetcode 的题目，思路，代码。
 
 ### Prefix Sum 
  - [2536.`[M]`.Increment Submatrices by One](notes/2536.md)(`array`,`matrix`,`prefix sum`)
+
+### Sliding Window
+ - [2537.`[M]`.Count the Number of Good Subarrays](notes/2537.md)(`array`,`hash table`,`sliding window`)
+
