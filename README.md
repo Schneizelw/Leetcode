@@ -82,7 +82,6 @@ leetcode 的题目，思路，代码。
  - [098.`[M]`.Validate Binary Search Tree](notes/098.md)(`tree,DFS`)
  - [102.`[M]`.Binary Tree Level Order Traversal](notes/102.md)(`tree,BFS`)
  - [103.`[M]`.Binary Tree Zigzag Level Order Traversal](notes/103.md)(`tree,BFS`)
- - [104.`[E]`.Maximum Depth of Binary Tree](notes/104.md)(`tree,DFS`)
  - [105.`[M]`.Construct Binary Tree from Preorder and Inorder Traversal](notes/105.md)(`array,tree,DFS`)
  - [108.`[E]`.Convert Sorted Array to Binary Search Tree](notes/108.md)(`array,tree,BFS`)
  - [118.`[E]`.Pascal's Triangle](notes/118.md)(`array`)
@@ -174,12 +173,14 @@ leetcode 的题目，思路，代码。
  - [110.`[E]`.Balanced Binary Tree](notes/110.md)(`tree`)
  - [112.`[E]`.Path Sum](notes/112.md)(`tree`)
  - [0101.`[E]`.Symmetric Tree](notes/0101.md)(`tree`,`DFS`)
+ - [0104.`[E]`.Maximum Depth of Binary Tree](notes/0104.md)(`tree,DFS`)
  - [0559.`[E]`.Maximum Depth of N-ary Tree](notes/0559.md)(`tree`,`DFS`)
  - [112.`[M]`.Path Sum II](notes/113.md)(`tree`)
  - [114.`[M]`.Flatten Binary Tree to Linked List](notes/114.md)(`tree`)
  - [0116.`[M]`.Populating Next Right Pointers in Each Node](notes/0116.md)(`tree`, `BFS`)
  - [0117.`[M]`.Populating Next Right Pointers in Each Node II](notes/0117.md)(`tree`, `BFS`)
  - [0129.`[M]`.Sum Root to Leaf Numbers](notes/0129.md)(`tree`, `DFS`)
+ - [0687.`[M]`.Longest Univalue Path](notes/0687.md)(`tree`, `DFS`)
 
 
 ### List
