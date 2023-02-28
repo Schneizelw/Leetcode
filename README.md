@@ -179,6 +179,7 @@ leetcode 的题目，思路，代码。
  - [114.`[M]`.Flatten Binary Tree to Linked List](notes/114.md)(`tree`)
  - [0116.`[M]`.Populating Next Right Pointers in Each Node](notes/0116.md)(`tree`, `BFS`)
  - [0117.`[M]`.Populating Next Right Pointers in Each Node II](notes/0117.md)(`tree`, `BFS`)
+ - [0129.`[M]`.Sum Root to Leaf Numbers](notes/0129.md)(`tree`, `DFS`)
 
 
 ### List
