@@ -80,7 +80,6 @@ leetcode 的题目，思路，代码。
  - [079.`[M]`.Word Search](notes/079.md)(`Backtracking`)
  - [094.`[M]`.Binary Tree Inorder Traversal](notes/094.md)(`tree`)
  - [098.`[M]`.Validate Binary Search Tree](notes/098.md)(`tree,DFS`)
- - [101.`[E]`.Symmetric Tree](notes/101.md)(`tree,DFS`)
  - [102.`[M]`.Binary Tree Level Order Traversal](notes/102.md)(`tree,BFS`)
  - [103.`[M]`.Binary Tree Zigzag Level Order Traversal](notes/103.md)(`tree,BFS`)
  - [104.`[E]`.Maximum Depth of Binary Tree](notes/104.md)(`tree,DFS`)
@@ -175,6 +174,7 @@ leetcode 的题目，思路，代码。
  - [111.`[E]`.Minimum Depth of Binary Tree](notes/111.md)(`tree`)
  - [110.`[E]`.Balanced Binary Tree](notes/110.md)(`tree`)
  - [112.`[E]`.Path Sum](notes/112.md)(`tree`)
+ - [0101.`[E]`.Symmetric Tree](notes/0101.md)(`tree`,`DFS`)
  - [112.`[M]`.Path Sum II](notes/113.md)(`tree`)
  - [114.`[M]`.Flatten Binary Tree to Linked List](notes/114.md)(`tree`)
 
