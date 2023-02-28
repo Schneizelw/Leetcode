@@ -182,6 +182,10 @@ leetcode 的题目，思路，代码。
  - [0129.`[M]`.Sum Root to Leaf Numbers](notes/0129.md)(`tree`, `DFS`)
  - [0687.`[M]`.Longest Univalue Path](notes/0687.md)(`tree`, `DFS`)
 
+### Binary Search
+
+ - [2476.`[M]`.Closest Nodes Queries in a Binary Search Tree](notes/2476.md)(`tree`, `DFS`, `binary search`)
+
 
 ### List
  - [0206.`[E]`.Reverse Linked List](notes/0206.md)(`Linked List`)
