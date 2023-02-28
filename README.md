@@ -85,7 +85,6 @@ leetcode 的题目，思路，代码。
  - [104.`[E]`.Maximum Depth of Binary Tree](notes/104.md)(`tree,DFS`)
  - [105.`[M]`.Construct Binary Tree from Preorder and Inorder Traversal](notes/105.md)(`array,tree,DFS`)
  - [108.`[E]`.Convert Sorted Array to Binary Search Tree](notes/108.md)(`array,tree,BFS`)
- - [116.`[M]`.Populating Next Right Pointers in Each Node](notes/116.md)(`tree,BFS`)
  - [118.`[E]`.Pascal's Triangle](notes/118.md)(`array`)
  - [122.`[E]`.Best Time to Buy and Sell Stock II](notes/122.md)(`array`)
  - [088.`[E]`.Merge Sorted Array](notes/088.md)(`array,two pointers`)
@@ -178,6 +177,8 @@ leetcode 的题目，思路，代码。
  - [0559.`[E]`.Maximum Depth of N-ary Tree](notes/0559.md)(`tree`,`DFS`)
  - [112.`[M]`.Path Sum II](notes/113.md)(`tree`)
  - [114.`[M]`.Flatten Binary Tree to Linked List](notes/114.md)(`tree`)
+ - [0116.`[M]`.Populating Next Right Pointers in Each Node](notes/0116.md)(`tree`, `BFS`)
+ - [0117.`[M]`.Populating Next Right Pointers in Each Node II](notes/0117.md)(`tree`, `BFS`)
 
 
 ### List
