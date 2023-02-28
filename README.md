@@ -175,6 +175,7 @@ leetcode 的题目，思路，代码。
  - [110.`[E]`.Balanced Binary Tree](notes/110.md)(`tree`)
  - [112.`[E]`.Path Sum](notes/112.md)(`tree`)
  - [0101.`[E]`.Symmetric Tree](notes/0101.md)(`tree`,`DFS`)
+ - [0559.`[E]`.Maximum Depth of N-ary Tree](notes/0559.md)(`tree`,`DFS`)
  - [112.`[M]`.Path Sum II](notes/113.md)(`tree`)
  - [114.`[M]`.Flatten Binary Tree to Linked List](notes/114.md)(`tree`)
 
