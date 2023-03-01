@@ -200,3 +200,7 @@ leetcode 的题目，思路，代码。
 ### Sliding Window
  - [2537.`[M]`.Count the Number of Good Subarrays](notes/2537.md)(`array`,`hash table`,`sliding window`)
 
+### Backtracking
+
+ - [0567.`[M]`.Beautiful Arrangement](notes/0567.md)(`array`,`backtracking`)
+
