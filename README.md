@@ -88,7 +88,6 @@ leetcode 的题目，思路，代码。
  - [122.`[E]`.Best Time to Buy and Sell Stock II](notes/122.md)(`array`)
  - [088.`[E]`.Merge Sorted Array](notes/088.md)(`array,two pointers`)
  - [128.`[H]`.Longest Consecutive Sequence](notes/128.md)(`array`)
- - [131.`[M]`.Palindrome Partitioning](notes/131.md)(`Backtracking`)
  - [134.`[M]`.Gas Station](notes/134.md)(`Greedy`)
  - [125.`[E]`.Valid Palindrome](notes/125.md)(`string,two pointers`)
  - [127.`[M]`.Word Ladder](notes/127.md)(`BFS`)
@@ -202,6 +201,7 @@ leetcode 的题目，思路，代码。
 
 ### Backtracking
 
+ - [0131.`[M]`.Palindrome Partitioning](notes/0131.md)(`Backtracking`)
  - [0567.`[M]`.Beautiful Arrangement](notes/0567.md)(`array`,`backtracking`)
  - [0698.`[M]`.Partition to K Equal Sum Subsets](notes/0698.md)(`array`,`backtracking`)
  - [0093.`[M]`.Restore IP Addresses](notes/0093.md)(`string`,`backtracking`)
