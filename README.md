@@ -204,4 +204,5 @@ leetcode 的题目，思路，代码。
 
  - [0567.`[M]`.Beautiful Arrangement](notes/0567.md)(`array`,`backtracking`)
  - [0698.`[M]`.Partition to K Equal Sum Subsets](notes/0698.md)(`array`,`backtracking`)
+ - [0093.`[M]`.Restore IP Addresses](notes/0093.md)(`string`,`backtracking`)
 
