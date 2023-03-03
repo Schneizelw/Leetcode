@@ -206,4 +206,5 @@ leetcode 的题目，思路，代码。
  - [0698.`[M]`.Partition to K Equal Sum Subsets](notes/0698.md)(`array`,`backtracking`)
  - [0093.`[M]`.Restore IP Addresses](notes/0093.md)(`string`,`backtracking`)
  - [0093.`[H]`.Number of Squareful Arrays](notes/0996.md)(`array`,`backtracking`)
+ - [0301.`[H]`.Remove Invalid Parentheses](notes/0301.md)(`string`,`backtracking`)
 
