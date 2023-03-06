@@ -39,6 +39,7 @@ leetcode 的题目，思路，代码。
  - [0123.`[H]`.Best Time to Buy and Sell Stock III](notes/0123.md)(`dp`)
  - [2439.`[M]`.Minimize Maximum of Array](notes/2439.md)(`dp`, `prefix sum`, `greedy`)
  - [0509.`[E]`.Fibonacci Number](notes/0509.md)(`dp`)
+ - [0518.`[M]`.Coin Change II](notes/0518.md)(`dp`)
 
 ### others
 
