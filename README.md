@@ -41,6 +41,7 @@ leetcode 的题目，思路，代码。
  - [0509.`[E]`.Fibonacci Number](notes/0509.md)(`dp`)
  - [0518.`[M]`.Coin Change II](notes/0518.md)(`dp`)
  - [0376.`[M]`.Wiggle Subsequence](notes/0376.md)(`dp`,`greedy`)
+ - [0486.`[M]`.Predict the Winner](notes/0486.md)(`dp`,`array`)
 
 ### others
 
