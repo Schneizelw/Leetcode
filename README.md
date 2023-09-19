@@ -1,4 +1,4 @@
-# Note_leetcode
+# Note Leetcode
 
 leetcode 的题目，思路，代码。
 
@@ -167,6 +167,7 @@ leetcode 的题目，思路，代码。
  - [0328.`[M]`.Odd Even Linked List](notes/0328.md)(`list`)
  - [0567.`[M]`.Permutation in String](notes/0567.md)(`two pointers`)
  - [0151.`[M]`.Reverse Words in a String](notes/0151.md)(`string`)
+ - [0836.`[E]`.Rectangle Overlap](notes/0836.md)(`array`)
 
 ### Tree
 
