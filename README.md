@@ -42,6 +42,7 @@ leetcode 的题目，思路，代码。
  - [0518.`[M]`.Coin Change II](notes/0518.md)(`dp`)
  - [0376.`[M]`.Wiggle Subsequence](notes/0376.md)(`dp`,`greedy`)
  - [0486.`[M]`.Predict the Winner](notes/0486.md)(`dp`,`array`)
+ - [0650.`[M]`.2 Keys Keyboard](notes/0650.md)(`dp`,`array`)
 
 ### others
 
