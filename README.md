@@ -43,6 +43,7 @@ leetcode 的题目，思路，代码。
  - [0376.`[M]`.Wiggle Subsequence](notes/0376.md)(`dp`,`greedy`)
  - [0486.`[M]`.Predict the Winner](notes/0486.md)(`dp`,`array`)
  - [0650.`[M]`.2 Keys Keyboard](notes/0650.md)(`dp`,`array`)
+ - [0712.`[M]`.Minimum ASCII Delete Sum for Two Strings](notes/0712.md)(`dp`,`array`)
 
 ### others
 
