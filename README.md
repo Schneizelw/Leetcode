@@ -46,6 +46,7 @@ leetcode 的题目，思路，代码。
  - [0712.`[M]`.Minimum ASCII Delete Sum for Two Strings](notes/0712.md)(`dp`,`array`)
  - [0714.`[M]`.Best Time to Buy and Sell Stock with Transaction Fee](notes/0714.md)(`dp`,`array`)
  - [0718.`[M]`.Maximum Length of Repeated Subarray](notes/0718.md)(`dp`,`array`)
+ - [0740.`[M]`.Delete and Earn](notes/0740.md)(`dp`,`array`)
 
 ### others
 
