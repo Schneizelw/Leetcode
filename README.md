@@ -44,6 +44,7 @@ leetcode 的题目，思路，代码。
  - [0486.`[M]`.Predict the Winner](notes/0486.md)(`dp`,`array`)
  - [0650.`[M]`.2 Keys Keyboard](notes/0650.md)(`dp`,`array`)
  - [0712.`[M]`.Minimum ASCII Delete Sum for Two Strings](notes/0712.md)(`dp`,`array`)
+ - [0714.`[M]`.Best Time to Buy and Sell Stock with Transaction Fee](notes/0714.md)(`dp`,`array`)
 
 ### others
 
