@@ -49,6 +49,7 @@ leetcode 的题目，思路，代码。
  - [0740.`[M]`.Delete and Earn](notes/0740.md)(`dp`,`array`)
  - [0769.`[M]`.Max Chunks To Make Sorted](notes/0769.md)(`dp`,`array`)
  - [0826.`[M]`.Most Profit Assigning Work](notes/0826.md)(`dp`,`array`)
+ - [0923.`[M]`.3Sum With Multiplicity](notes/0923.md)(`dp`,`array`)
 
 ### others
 
