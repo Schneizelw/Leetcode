@@ -212,9 +212,10 @@ leetcode 的题目，思路，代码。
 ### Sliding Window
  - [2537.`[M]`.Count the Number of Good Subarrays](notes/2537.md)(`array`,`hash table`,`sliding window`)
 
-### DFS
-
+### DFS && BFS
  - [0638.`[M]`.Shopping Offers](notes/0638.md)(`depth-first-search`)
+ - [0934.`[M]`.Shortest Bridge](notes/0934.md)(`bfs`)
+
 
 ### Backtracking
 
