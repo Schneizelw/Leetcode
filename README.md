@@ -216,6 +216,7 @@ leetcode 的题目，思路，代码。
 ### DFS && BFS
  - [0638.`[M]`.Shopping Offers](notes/0638.md)(`depth-first-search`)
  - [0934.`[M]`.Shortest Bridge](notes/0934.md)(`bfs`)
+ - [1020.`[M]`.Number of Enclaves](notes/1020.md)(`dfs`)
 
 
 ### Backtracking
