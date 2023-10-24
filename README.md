@@ -53,6 +53,7 @@ leetcode 的题目，思路，代码。
  - [0967.`[M]`.Numbers With Same Consecutive Differences](notes/0967.md)(`dp`,`array`)
  - [1024.`[M]`.Video Stitching](notes/1024.md)(`dp`,`greedy`)
  - [1053.`[M]`.Previous Permutation With One Swap](notes/1053.md)(`dp`,`array`)
+ - [1081.`[M]`.Smallest Subsequence of Distinct Characters](notes/1081.md)(`dp`,`array`)
 
 ### others
 
