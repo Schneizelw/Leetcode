@@ -220,6 +220,7 @@ leetcode 的题目，思路，代码。
  - [0638.`[M]`.Shopping Offers](notes/0638.md)(`depth-first-search`)
  - [0934.`[M]`.Shortest Bridge](notes/0934.md)(`bfs`)
  - [1020.`[M]`.Number of Enclaves](notes/1020.md)(`dfs`)
+ - [1029.`[M]`.Shortest Path with Alternating Colors](notes/1029.md)(`graph`, `dfs`)
 
 
 ### Backtracking
