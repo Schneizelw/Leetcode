@@ -54,6 +54,7 @@ leetcode 的题目，思路，代码。
  - [1024.`[M]`.Video Stitching](notes/1024.md)(`dp`,`greedy`)
  - [1053.`[M]`.Previous Permutation With One Swap](notes/1053.md)(`dp`,`array`)
  - [1081.`[M]`.Smallest Subsequence of Distinct Characters](notes/1081.md)(`dp`,`array`)
+ - [0174.`[H]`.Dungeon Game](notes/0174.md)(`dp`,`array`)
 
 ### others
 
